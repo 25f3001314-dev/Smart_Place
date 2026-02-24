@@ -1,0 +1,11 @@
+Name,Branch,CGPA,Skills,Status,Company
+Ashutosh Shri Mishra,CSE,8.5,"Python, Machine Learning, XGBoost, NLP, Scikit-learn, Pandas",Shortlisted,Flipkart
+Priya Sharma,ECE,8.9,"Python, Deep Learning, Computer Vision, PyTorch, TensorFlow",Offer Received,NVIDIA
+Rahul Verma,IT,7.8,"Java, Spring Boot, Microservices, Kafka, PostgreSQL, Docker",Applied,Zepto
+Deepak Pal,CSE,8.1,"React, JavaScript, TypeScript, CSS, Redux, Next.js",Interview Scheduled,Swiggy
+Sneha Gupta,CSE,9.1,"Python, Statistics, SQL, Power BI, R, Tableau",Offer Received,Goldman Sachs
+Arjun Singh,ME,7.5,"Python, MATLAB, CAD, Simulation, Data Analysis",Applied,Tata Motors
+Ritika Jha,CSE,8.3,"Flutter, Dart, Firebase, Android, iOS, REST API",Interview Scheduled,Meesho
+Saurav Das,EE,8.0,"Python, SCADA, IoT, Embedded C, Arduino, Raspberry Pi",Shortlisted,Siemens
+Anjali Roy,CSE,9.3,"Machine Learning, NLP, BERT, Transformers, PyTorch, Python",Offer Received,Microsoft
+Vikram Nair,CSE,7.9,"Solidity, Ethereum, Web3.js, Smart Contracts, Python",Applied,Polygon
